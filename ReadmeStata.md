@@ -76,3 +76,7 @@ latexnc stddevprice "\StataScalarList.tex"
 * Agregar comandos para el ejercico de GitHub
 * GINA DIME SI PUEDES VER ESTO!!
 **** :) *****
+
+
+***BIANI Puedes ver esto?
+scalar medianproce=r(p50)
