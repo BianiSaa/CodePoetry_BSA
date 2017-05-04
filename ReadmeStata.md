@@ -77,6 +77,8 @@ latexnc stddevprice "\StataScalarList.tex"
 * GINA DIME SI PUEDES VER ESTO!!
 **** :) *****
 
+Creo que ya solucioné el problema :)
+
 
 ***BIANI Puedes ver esto?
 scalar medianproce=r(p50)
